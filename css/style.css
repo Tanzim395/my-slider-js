@@ -1,0 +1,13 @@
+body {
+    background-color: oldlace;
+}
+
+.header {
+    text-align: center;
+}
+
+.img-slider {
+    width: 50%;
+    justify-content: center;
+    padding-left: 20.5rem;
+}
